@@ -1,3 +1,10 @@
+I created this website using React js.
+and this website is fully responsive using css media queries.
+Feautures and functionality added - responsiveness, User-friendly navigation, Sorting and filtering, Good design, 
+Shopping cart and checkout buttons and product listing and details page also etc.
+and technology used in his e-commerce website are - (html, css , javascript ,react js ).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
